@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # testcps2002asdfghhjklhsdg
 
+=======
+# testcps2002
+//newline
+>>>>>>> origin/master
 my first try
 
-my second try
+my ---------------second try
 
 <<<<<<< HEAD
 <<<<<<< HEAD
