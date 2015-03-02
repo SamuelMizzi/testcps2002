@@ -1,5 +1,5 @@
 # testcps2002
-
+//newline
 my first try
 
 my second try
