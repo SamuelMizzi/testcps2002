@@ -2,7 +2,7 @@
 //newline
 my first try
 
-my second try
+my ---------------second try
 
 <<<<<<< HEAD
 <<<<<<< HEAD
